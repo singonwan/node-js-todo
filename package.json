@@ -1,0 +1,24 @@
+{
+  "name": "js-todo",
+  "version": "1.0.0",
+  "description": "a small todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singonwan/node-js-todo.git"
+  },
+  "author": "george",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singonwan/node-js-todo/issues"
+  },
+  "homepage": "https://github.com/singonwan/node-js-todo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
