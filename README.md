@@ -8,4 +8,6 @@ middleware express.static() - to load static stuff
 
 uses Jquery AJAX methods to post and delete from the list
 
+Uses MongoDB as the database (Atlas) (Mongoose)
+
 todoapp uses MVC structure
